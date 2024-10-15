@@ -1,4 +1,4 @@
-name = "ohno-template"
+name = "ohyes"
 compatibility_date = "2024-04-05"
 pages_build_output_dir="./dist"
 
@@ -6,8 +6,8 @@ pages_build_output_dir="./dist"
 mode = "smart"
 
 [vars]
-OPENAI_API_KEY = ""
-GORQ_API_KEY = ""
+OPENAI_API_KEY = "sk-svcacct-__eqp_ISPL6SP_U__b3t_tEl9tQQiGGXR2SMY6756N24S3sNZMT2wT1VrYNAsRlT3BlbkFJslYLW5-tDh_8aNT8t3IiaL4fMA3fx0u4jBKwb4geK_wCYR0SVZ4xjQnK3rCRkAA"
+GORQ_API_KEY = "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"
 ACCOUNT = ""
 USER_NAME = ""
 PASSWORD = ""
